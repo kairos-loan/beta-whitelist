@@ -1,1 +1,1 @@
-# beta-whitelist
+# whitelist
