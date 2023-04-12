@@ -1,1 +1,2 @@
-# whitelist
+# beta-whitelist
+Deprecated repo.
